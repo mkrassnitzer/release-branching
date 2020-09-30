@@ -1,4 +1,5 @@
 # release-branching
 
 ## Introduction
-## Scop
+## Scope
+## Usage
